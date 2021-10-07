@@ -1,4 +1,5 @@
-//Comments
+/*Comments
+*/
 
 class Apple{
 int weight;
