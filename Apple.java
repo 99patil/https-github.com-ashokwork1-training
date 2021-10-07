@@ -1,3 +1,5 @@
+//Comments
+
 class Apple{
 int weight;
 
@@ -7,7 +9,6 @@ String nameOfApple ="Hello World " ;
 
 System.out.println(nameOfApple );
 }
-
 
 }
 
