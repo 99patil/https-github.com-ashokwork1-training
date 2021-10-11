@@ -1,0 +1,19 @@
+Flight Booking Company
+
+Design an Interface called Ticket, which will used to book Flights.
+It should have two methods
+book("name of the booker", price, "date of flight");
+cancel();
+
+Design and implement 2 concrete classes RegularTicket and TatkalTicket.
+
+In your Server class (Main class), create some 5 instances of Ticket, mix of both RegularTicket and TatkalTickets. 
+Print the total amount collected.
+Then randomly cancel 2 of them.
+Print the total amount collected.
+
+Go further and try to print in the format below:
+*********** My Airport **************
+Ticket tickets sold:          ZZZ
+Total amount collected: AAA
+*************************************
